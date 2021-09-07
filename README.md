@@ -1,6 +1,6 @@
-# 2021-ISPS-poster
+# ISPS2021 Poster
 
-A poster for the 26th International Symposium on Polar Sciences (ISPS2021). 
+A poster submitted to the 26th International Symposium on Polar Sciences (ISPS2021). 
 
 ## Assessment of Tethered Balloon-Borne Observations of Arctic Low Cloud Properties
 
